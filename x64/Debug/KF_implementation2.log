@@ -1,0 +1,23 @@
+﻿  EKF.c
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(8,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(11,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(14,25): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(37,35): warning C4305: 'function': truncation from 'double' to 'const matrix_data_t'
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(38,35): warning C4305: 'function': truncation from 'double' to 'const matrix_data_t'
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(45,34): warning C4244: '=': conversion from 'double' to 'matrix_data_t', possible loss of data
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(46,31): warning C4244: '=': conversion from 'double' to 'matrix_data_t', possible loss of data
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(56,50): warning C4244: 'function': conversion from 'double' to 'const matrix_data_t', possible loss of data
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(57,50): warning C4244: 'function': conversion from 'double' to 'const matrix_data_t', possible loss of data
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(58,50): warning C4244: 'function': conversion from 'double' to 'const matrix_data_t', possible loss of data
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(78,25): warning C4090: 'function': different 'const' qualifiers
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(125,9): warning C4098: 'main': 'void' function returning a value
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(144,9): warning C4098: 'main': 'void' function returning a value
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(247,63): warning C4047: 'function': 'matrix_data_t *' differs in levels of indirection from 'matrix_data_t (*)[3]'
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(247,59): warning C4024: 'predict': different types for formal and actual parameter 8
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(252,70): warning C4047: 'function': 'matrix_data_t *' differs in levels of indirection from 'matrix_data_t (*)[3]'
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(252,66): warning C4024: 'update': different types for formal and actual parameter 11
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(275,9): warning C4098: 'main': 'void' function returning a value
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(293,9): warning C4098: 'main': 'void' function returning a value
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(203,1): warning C4305: 'initializing': truncation from 'double' to 'matrix_data_t'
+D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\KF_implementation2\EKF.c(213,1): warning C4305: 'initializing': truncation from 'double' to 'matrix_data_t'
+  KF_implementation2.vcxproj -> D:\BME\Four_wheel_drive_e-wehicle\VS_Code\KF_implementation2\x64\Debug\KF_implementation2.exe
